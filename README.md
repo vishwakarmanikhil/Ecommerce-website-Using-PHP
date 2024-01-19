@@ -12,7 +12,7 @@ A website created to learn PHP back in 2019 based on the tutorial from [YouTube]
 
 ## Overview
 About
-This is E-commerce website which is developed by using the PHP. In this project i have also completed the cart functionality of the e-commerce website. User can add product,remove product and checkout product. in this project admin can add product to the their website dynamically.
+Embarked on a great learning journey by developing an e-commerce website using PHP. This dynamic platform includes essential features such as user registration, login, seamless product viewing with advanced filters, efficient cart management, and a streamlined checkout process. Elevating the project, there's an admin section with secure login credentials, empowering the capability to effortlessly add, edit, and delete products. Dive into the world of web development with this comprehensive and hands-on project experience.
 
 ## Features
 List the key features of your website. For example:
