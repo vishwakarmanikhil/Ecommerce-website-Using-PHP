@@ -1,4 +1,4 @@
-# Your Website Name
+# Ecommerce Website Using PHP
 
 [![Tutorial](https://img.shields.io/badge/Tutorial-YouTube-red)](https://youtu.be/MAEg9cwi4aY?si=p_BN3okRKp5Baos2)
 
@@ -35,7 +35,7 @@ To run this project locally, you need to have XAMPP installed. Follow these step
    Open your terminal and run the following commands:
    ```bash
    git clone https://github.com/vishwakarmanikhil/Ecommerce-website-Using-PHP.git
-   cd your-website
+   cd Ecommerce-website-Using-PHP
    ```
 3. **Start XAMPP:**
    Start XAMPP and ensure that Apache and MySQL are running.
