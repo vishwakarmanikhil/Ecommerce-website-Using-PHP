@@ -34,7 +34,7 @@ To run this project locally, you need to have XAMPP installed. Follow these step
 2. **Clone the Repository:**
    Open your terminal and run the following commands:
    ```bash
-   git clone https://github.com/your-username/your-website.git
+   git clone https://github.com/vishwakarmanikhil/Ecommerce-website-Using-PHP.git
    cd your-website
    ```
 3. **Start XAMPP:**
