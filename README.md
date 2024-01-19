@@ -55,5 +55,4 @@ Now, your website should be up and running locally!
 
 ## Usage
 Explore the codebase, experiment with features, and use it as a learning resource for PHP web development.
-If you find this project helpful, consider giving credit to the original author [![GitHub stars](https://img.shields.io/github/stars/your-username/your-website.svg?style=social)](https://github.com/vishwakarmanikhil/Ecommerce-website-Using-PHP)
- and star the project on GitHub. Your support is highly appreciated!
+If you find this project helpful, consider giving credit to the original author [![GitHub stars](https://img.shields.io/github/stars/vishwakarmanikhil/Ecommerce-website-Using-PHP.svg?style=social)](https://github.com/vishwakarmanikhil/Ecommerce-website-Using-PHP) and star the project on GitHub. Your support is highly appreciated!
