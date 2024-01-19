@@ -126,7 +126,7 @@
                     Dont miss our latest update products.
                 </p>
                 
-                <form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=M-devMedia', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" method="post"><!-- form begin -->
+                <form action="" method="post" target="popupwindow" onsubmit="" method="post"><!-- form begin -->
                     <div class="input-group"><!-- input-group begin -->
                         
                         <input type="text" class="form-control" name="email">
